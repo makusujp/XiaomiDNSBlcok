@@ -1,6 +1,8 @@
-# This is a DNS blocklist to block unnecessary connections to Xiaomi on the Internet.
-# 2020/05/05
-
+[Adblock Plus]
+! Expires: 1 hour
+! Version: 20230810
+! Title: XiaomiDNSBlcok
+! This is a DNS blocklist to block unnecessary connections to Xiaomi on the Internet.
 ||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
 ||account.preview.n.xiaomi.net^
@@ -23,6 +25,7 @@
 ||api.device.xiaomi.net^
 ||api.d.xiaomi.com^
 ||api.hybrid.xiaomi.com^
+||api.installer.xiaomi.com^
 ||api.io.mi.com^
 ||api.miwifi.com^
 ||api.micloud.xiaomi.net^
@@ -199,6 +202,7 @@
 ||test.zeus.ad.xiaomi.com^
 ||thm.market.intl.miui.com^
 ||thm.market.xiaomi.com^
+||tracker.ai.xiaomi.com
 ||tracking.intl.miui.com^
 ||tracking.miui.com^
 ||trial.api.huangye.miui.com^
@@ -228,4 +232,4 @@
 ||zeus.ad.xiaomi.com^
 ||zhuti.xiaomi.com^
 ||zx.game.xiaomi.com^
-||zx.game.xiaomi.com^stat.xiaomi.com^
+||zx.game.xiaomi.com^
