@@ -8,7 +8,7 @@
 ||a.union.mi.com^
 ||abtest.mistat.intl.xiaomi.com^
 ||abtest.mistat.xiaomi.com^
-||activeqq.3g.qq.com
+||activeqq.3g.qq.com^
 ||ad.intl.xiaomi.com^
 ||ad.mi.com^
 ||ad.xiaomi.com^
